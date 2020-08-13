@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.icons8.com/color/96/000000/play-station.png"/> <img src="https://img.icons8.com/color/96/000000/nintendo-switch.png"/> <img src="https://img.icons8.com/fluent/96/000000/steam.png"/> <img src="https://img.icons8.com/fluent/96/000000/battle-net.png"/> 
+
+<img src="https://img.icons8.com/office/80/000000/triforce.png"/> <img src="https://img.icons8.com/color/96/000000/overwatch--v1.png"/>
