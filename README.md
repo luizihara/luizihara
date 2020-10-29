@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there <img src="https://img.icons8.com/color/26/000000/lightsaber.png"/>
 My name Luiz Ihara, I'm QA full stack with ample knowledge in infrastructure and DevOps.
 
 <!--
