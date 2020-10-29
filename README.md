@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Luiz Ihara, I'm QA with great knowledge in infrastructure.
+My name Luiz Ihara, I'm QA full stack with ample knowledge in infrastructure and DevOps.
 
 <!--
 **luizihara/luizihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
