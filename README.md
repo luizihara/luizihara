@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### clouds
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon.png"/>
 
-### hoobbies
+### hobbies
 <img src="https://img.icons8.com/color/48/000000/play-station.png"/> <img src="https://img.icons8.com/color/48/000000/nintendo-switch.png"/> <img src="https://img.icons8.com/fluent/48/000000/steam.png"/> <img src="https://img.icons8.com/fluent/48/000000/battle-net.png"/> 
 
 ### chill
