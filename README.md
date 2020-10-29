@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name Luiz Ihara, I'm QA with great knowledge in infrastructure.
 
 <!--
 **luizihara/luizihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### languages
-<img src="https://img.icons8.com/officel/48/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/fluent/48/000000/console.png"/> <img src="https://img.icons8.com/dusk/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/officel/48/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/fluent/48/000000/console.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
 
 ### systems
 <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
@@ -27,9 +28,8 @@ Here are some ideas to get you started:
 ### clouds
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon.png"/>
 
-### hoobies
+### hoobbies
 <img src="https://img.icons8.com/color/48/000000/play-station.png"/> <img src="https://img.icons8.com/color/48/000000/nintendo-switch.png"/> <img src="https://img.icons8.com/fluent/48/000000/steam.png"/> <img src="https://img.icons8.com/fluent/48/000000/battle-net.png"/> 
 
-### funs
-<img src="https://img.icons8.com/fluent/48/000000/beer.png"/> <img src="https://img.icons8.com/cotton/48/000000/tequila-shot.png"/> <img src="https://img.icons8.com/color/48/000000/vodka.png"/> <img src="https://img.icons8.com/cotton/48/000000/hot-coffee.png"/> 
-
+### chill
+<img src="https://img.icons8.com/fluent/48/000000/beer.png"/> <img src="https://img.icons8.com/cotton/48/000000/hot-coffee.png"/> 
