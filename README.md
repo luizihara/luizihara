@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ### chill
 <img src="https://img.icons8.com/fluent/31/000000/beer.png"/> <img src="https://img.icons8.com/cotton/31/000000/hot-coffee.png"/> 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizihara&layout=compact&langs_count=16&theme=dark"/>
