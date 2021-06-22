@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### languages
-<img src="https://img.icons8.com/officel/23/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/fluent/23/000000/console.png"/> <img src="https://img.icons8.com/color/23/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/23/000000/python.png"/> <img src="https://img.icons8.com/color/23/000000/golang.png"/> <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/officel/23/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/fluent/23/000000/console.png"/> <img src="https://img.icons8.com/color/23/000000/javascript.png"/> <img src="https://img.icons8.com/dusk/23/000000/python.png"/> <img src="https://img.icons8.com/color/23/000000/golang.png"/> <img src="https://img.icons8.com/color/23/000000/java-coffee-cup-logo.png"/>
 
 ### systems
 <img src="https://img.icons8.com/color/23/000000/linux.png"/> <img src="https://img.icons8.com/color/23/000000/docker.png"/> <img src="https://img.icons8.com/color/23/000000/kubernetes.png"/>
