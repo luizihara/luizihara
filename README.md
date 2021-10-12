@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 
 ### languages in my repository
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizihara&langs_count=16&theme=dark&layout=compact"/>
+
+### devcard
+<a href="https://app.daily.dev/ihara"><img src="https://api.daily.dev/devcards/95f4517f4dc442769b7ab32003504fae.png?r=fdx" width="400" alt="Luiz Ihara's Dev Card"/></a>
