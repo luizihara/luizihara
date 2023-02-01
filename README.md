@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### languages
-<img src="https://img.icons8.com/fluent/31/000000/console.png"/> <img src="https://img.icons8.com/color/31/000000/javascript.png"/> <img src="https://img.icons8.com/color/31/000000/typescript.png"/> <img src="https://img.icons8.com/dusk/31/000000/python.png"/> <img src="https://img.icons8.com/officel/31/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/color/31/000000/golang.png"/> <img src="https://img.icons8.com/color/31/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/fluent/31/000000/console.png"/> <img src="https://img.icons8.com/color/31/000000/javascript.png"/> <img src="https://img.icons8.com/color/31/000000/typescript.png"/> <img src="https://img.icons8.com/officel/31/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/dusk/31/000000/python.png"/> <img src="https://img.icons8.com/color/31/000000/golang.png"/> <img src="https://img.icons8.com/color/31/000000/java-coffee-cup-logo.png"/>
 
 ### automation
 [Playwright](https://playwright.dev/) | [Cypress](https://www.cypress.io/) | [Appium](https://appium.io/) | [Selenium](https://www.selenium.dev/)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/31/000000/linux.png"/> <img src="https://img.icons8.com/color/31/000000/ubuntu.png"/> <img src="https://img.icons8.com/color/31/000000/docker.png"/> <img src="https://img.icons8.com/color/31/000000/kubernetes.png"/>
 
 ### CI/CD
-<img src="https://img.icons8.com/color/31/000000/azure.png"/> <img src="https://img.icons8.com/color/31/000000/jenkins.png"/> <img src="https://img.icons8.com/fluent/31/000000/github.png"/> <img src="https://img.icons8.com/color/31/000000/heroku.png"/> <img src="https://img.icons8.com/color/31/000000/bitbucket.png"/>
+<img src="https://img.icons8.com/color/31/000000/azure-1.png"/> <img src="https://img.icons8.com/color/31/000000/jenkins.png"/> <img src="https://img.icons8.com/fluent/31/000000/github.png"/> <img src="https://img.icons8.com/color/31/000000/heroku.png"/> <img src="https://img.icons8.com/color/31/000000/bitbucket.png"/> <img src="https://img.icons8.com/color/31/000000/circleci.png"/>
 
 ### clouds
 <img src="https://img.icons8.com/color/31/000000/azure-1.png"/> <img src="https://img.icons8.com/color/31/000000/amazon.png"/>
